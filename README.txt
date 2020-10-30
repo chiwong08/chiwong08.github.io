@@ -1,6 +1,8 @@
-Chi Wong
-Software Developer
+# My running biography
+see it [https://chiwong08.github.io/](https://chiwong08.github.io/)
 
+
+### Summary
 I've been a software developer for 20 years.
 I've held various positions such as Senior Developer, Senior IT Specialist, Senior Analyst Programmer and Systems Analyst.
 They've been in the financial services industry, working with Oracle and Sybase running on enterprise unix based systems.
