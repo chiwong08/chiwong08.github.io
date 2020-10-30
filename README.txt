@@ -1,5 +1,5 @@
 # My running biography
-see it [https://chiwong08.github.io/](https://chiwong08.github.io/)
+see it here at https://chiwong08.github.io/
 
 
 ### Summary
