@@ -1,4 +1,8 @@
-#Chi Wong
-### Software Developer
+Chi Wong
+Software Developer
 
-Just a short intro 
+I've been a software developer in various positions (Senior Developer, Senior IT Specialist, Senior Analyst Programmer, Systems Analyst) for 20 years.
+They've been in the financial services industry, working with Oracle and Sybase running on enterprise unix based systems.
+Development-wise, I've mainly been focused on OO programming with C++, but I have dabbled a bit with java and python.
+
+Outside of work, I'm a foodie and take every opportunity to try new restaurants.  Memorable places include Whatley Manor in Malmesbury, The Moody Cow in Ross-on-Wye, The Waterside Inn in Bray and many more in London, of which Seven Park Place by William Drabble is my favourite.
